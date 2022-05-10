@@ -15,9 +15,9 @@ In this project I combined my knowledge of lists, loops and syntax to help a mad
 * Git and Github
 
 ## Links
-* [Codecademy] (https://codecademy.com/)
-* [Codecademy Data Science path] (https://codecademy.com/learn/paths/data-science)
-* [Codecademy Command Line course] (https://www.codecademy.com/learn/learn-the-command-line)
-* [Codecademy Git and Github course] (https://www.codecademy.com/learn/learn-git)
-* [Python Docs] (https://docs.python.org/3/)
-* [Jupyter] (https://jupyter-notebook.readthedocs.io/en/stable) and [Markdown] (https://www.markdownguide.org/basic-syntax) reference
+* [Codecademy](https://codecademy.com/)
+* [Codecademy Data Science path](https://codecademy.com/learn/paths/data-science)
+* [Codecademy Command Line course](https://www.codecademy.com/learn/learn-the-command-line)
+* [Codecademy Git and Github course](https://www.codecademy.com/learn/learn-git)
+* [Python Docs](https://docs.python.org/3/)
+* [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable) and [Markdown](https://www.markdownguide.org/basic-syntax) reference
